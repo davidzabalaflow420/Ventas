@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "papas",
+        "marca": "fritolay",
+        "precio": 2000.0
+    },
+    {
+        "nombre": "leche",
+        "marca": "colanta",
+        "precio": 5000.0
+    },
+    {
+        "nombre": "arepas",
+        "marca": "sary",
+        "precio": 2600.0
+    }
+]
