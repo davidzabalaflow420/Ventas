@@ -15,6 +15,7 @@
 8 git push -u origin main→ Sube los cambios a GitHub por primera vez.
 
 -Para cambios de divisas
+
 git add .→ Agregar cambios al área de preparación.
 
 git commit -m "Descripción del cambio"→ Guardar cambios con un mensaje.
